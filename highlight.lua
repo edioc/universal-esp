@@ -1,6 +1,5 @@
 while true do
 wait(1)
-print("L")
 local Players = game:GetService("Players")
 local localPlayer = Players.LocalPlayer
 
